@@ -1,8 +1,13 @@
 Author: DiepTV
+
 Date: 23/12/2021
+
 Project: [IUSR] Android app: Input URL and send GET request to this URL
+
 Version: IUSR v1
+
 ================================================
+
 ==Start task==
 Feature:
 	1. Input URL
