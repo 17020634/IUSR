@@ -11,5 +11,5 @@ Feature:
 4. Waiting response from host and display responsed data to view - below button "SEND GET REQUEST"
 
 Library:
-	In this project, I use Volley library to setup request. Because it's very easy to setup a simpler GET/POST request.
-	I tried to use Retrofit library for that work, but I encountered some difficulties during the setup and the command is quite long to send a simple GET request.
+In this project, I use Volley library to setup request. Because it's very easy to setup a simpler GET/POST request.
+I tried to use Retrofit library for that work, but I encountered some difficulties during the setup and the command is quite long to send a simple GET request.
