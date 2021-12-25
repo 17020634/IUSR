@@ -13,7 +13,7 @@ Version: IUSR v1
 
 Feature:
 
-1. Input URL
+1. Input URL below "URL" on app
 
 2. Press "SEND GET REQUEST" to send a simple GET request to URL that user input
 
